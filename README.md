@@ -1,3 +1,1 @@
-Several Machine Learning projects and demos
-
-View the branches to browse the different projects/demos
+Training an SGD Classifier with the MNIST dataset to classify two classes, 4s and not-4s. Also plotting the ROC curve and evaluating the model by calculating the metrics of accuracy, recall, and precision.
