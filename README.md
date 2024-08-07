@@ -1,4 +1,4 @@
-Building and comparing 3 vanilla auto-encoder neural networks with different latent spaces and nodes.
+Building and comparing 3 vanilla auto-encoder neural networks with different latent spaces and nodes on the MNIST dataset.
 
 1st NN: Using 10 nodes.
 
